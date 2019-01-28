@@ -1,0 +1,77 @@
+h1{
+  font-family: 'Reenie Beanie', cursive;
+  font-size: 80px;
+  color: black;
+  text-align: center;
+  padding: 70px;
+  background-color:  #ffedf3;
+}
+
+
+.dropdown {
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+  text-align: center;
+  padding: 10px;
+  color: pink;
+  position: center;
+
+}
+
+.dropdown-content {
+  display: none;
+  position: center;
+  background-color: white;
+  min-width: 160px;
+  padding: 12px 16px;
+  z-index: 1;
+  font-family: 'Roboto', sans-serif;
+}
+
+.dropdown:hover .dropdown-content{
+  display: block;
+}
+
+.boton{
+  font-family: 'Roboto', sans-serif;
+  font-style: italic;
+  background: none;
+  font-size: 30px;
+  box-shadow: none;
+  border: none;
+  cursor: pointer;
+  position: center;
+  padding: 30px;
+}
+
+.boton:hover{
+  background-color: School project game in C++.
+}
+
+.headAbouts{
+  font-family: 'Reenie Beanie', cursive;
+  font-size: 50px;
+  color: black;
+  text-align: center;
+  padding: 20px;
+}
+
+.myInfo{
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  text-align: left;
+}
+
+#myWork{
+  background-color: #ffedf3;
+}
+
+#myEducation{
+  background-color: #c7f9dc;
+}
+
+#interesHobbies{
+  background-color: #b1d7dd;
+  background-position: left;
+  padding: 30px;
+}
